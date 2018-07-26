@@ -8,16 +8,14 @@ state and federal law.
 
 Although there are many applications and websites that collect information and
 other statistics about their users, our messenger bot DOES NOT collect any personal information about you.
-Having messaged a trigger keyword, namely _HSCTrialPapers_ and that alone, the messenger bot will send
-a single link back to a Google Drive folder. At no point do we access any personal information about you as provided
-by your Facebook account.
+If a user messages the Hero Education Facebook page with the trigger keyword, namely _HSCTrialPapers_ and that alone, the messenger bot will send a single link back to a Google Drive folder. At no point do we access any personal information about you as provided by your Facebook account.
 
 ## What about privacy on other web sites?
 
-This messenger bot is only authorised to send a single link to a Google Drive folder.
-This website is owned by a third party. We provide this link for your convenience, but we do
-not review, control, or monitor the privacy practices of websites of third parties operated by
-others.
+This messenger bot is only authorised to send a single link to a Google Drive folder on the user sending a trigger keyword.
+Google Drive is owned by a third party. We provide this link for your convenience, but we do
+not review, control, or monitor the privacy practices of websites operated by
+third parties.
 
 We are not responsible for the performance of web sites operated by third parties
 or for your business dealings with them. Therefore, whenever you leave dialogue with our page, via the link to the Google Drive folder, we recommend that you review the web site's privacy practices and make
