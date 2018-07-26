@@ -34,4 +34,4 @@ notice on the homepage of our web site and our Facebook page for a period of tim
 ## How to contact us
 
 If you have questions or comments about this Privacy Statement, please contact us at contact@heroeducation.com.au.
-Alternatively, contact us via our website's contact form at heroeducation.com.au/contact-us.
+Alternatively, contact us via our website's contact form at http://heroeducation.com.au/contact-us.
